@@ -1,2 +1,2 @@
-# AirplaneHeirs.planes
-An airplane company run by KidCarz
+# What is AirplaneHeirs
+AirplaneHeirs is an airplane company sponsored by KidCarz
